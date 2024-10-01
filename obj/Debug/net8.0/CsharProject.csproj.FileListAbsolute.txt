@@ -12,3 +12,4 @@
 /home/mateus/Personal/CsharProject/obj/Debug/net8.0/CsharProject.pdb
 /home/mateus/Personal/CsharProject/obj/Debug/net8.0/CsharProject.genruntimeconfig.cache
 /home/mateus/Personal/CsharProject/obj/Debug/net8.0/ref/CsharProject.dll
+/home/mateus/Personal/CsharProject/obj/Debug/net8.0/CsharProject.sourcelink.json
