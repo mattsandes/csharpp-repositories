@@ -9,6 +9,9 @@ namespace CsharpProject //nome do projeto;
     {
         static void Main(string[] args)
         {
+            var variaveis = new Variaveis();
+            int valorInteiro = 1234;
+
             Console.WriteLine("Hello world");
 
             Console.Write("Hello");
@@ -31,6 +34,12 @@ namespace CsharpProject //nome do projeto;
 
             Console.WriteLine("Valor 1: " + valorDecimal + 
             "\nOutro valor decimal: " + outroValorDecimal);
+
+            //usando a classe de variaveis;
+
+            variaveis.retornaVariaveisInteiras(valorInteiro);
+
+            variaveis.leDadosDoTeclado();
         }
     }
 }
