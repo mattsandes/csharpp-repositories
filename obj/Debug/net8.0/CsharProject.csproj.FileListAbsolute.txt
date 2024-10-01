@@ -1,0 +1,14 @@
+/home/mateus/Personal/CsharProject/bin/Debug/net8.0/CsharProject
+/home/mateus/Personal/CsharProject/bin/Debug/net8.0/CsharProject.deps.json
+/home/mateus/Personal/CsharProject/bin/Debug/net8.0/CsharProject.runtimeconfig.json
+/home/mateus/Personal/CsharProject/bin/Debug/net8.0/CsharProject.dll
+/home/mateus/Personal/CsharProject/bin/Debug/net8.0/CsharProject.pdb
+/home/mateus/Personal/CsharProject/obj/Debug/net8.0/CsharProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/mateus/Personal/CsharProject/obj/Debug/net8.0/CsharProject.AssemblyInfoInputs.cache
+/home/mateus/Personal/CsharProject/obj/Debug/net8.0/CsharProject.AssemblyInfo.cs
+/home/mateus/Personal/CsharProject/obj/Debug/net8.0/CsharProject.csproj.CoreCompileInputs.cache
+/home/mateus/Personal/CsharProject/obj/Debug/net8.0/CsharProject.dll
+/home/mateus/Personal/CsharProject/obj/Debug/net8.0/refint/CsharProject.dll
+/home/mateus/Personal/CsharProject/obj/Debug/net8.0/CsharProject.pdb
+/home/mateus/Personal/CsharProject/obj/Debug/net8.0/CsharProject.genruntimeconfig.cache
+/home/mateus/Personal/CsharProject/obj/Debug/net8.0/ref/CsharProject.dll
